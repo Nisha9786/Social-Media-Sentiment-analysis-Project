@@ -1,0 +1,7 @@
+streamlit
+pandas
+tweepy
+textblob
+matplotlib
+seaborn
+wordcloud
